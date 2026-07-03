@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-dev-del" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Saksham-dev-del&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
