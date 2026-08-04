@@ -130,7 +130,7 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-YOUR-USERNAME.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Saksham-dev-del&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
@@ -139,7 +139,7 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-dev-del&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-dev-del&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
 </p>
 
 ---
