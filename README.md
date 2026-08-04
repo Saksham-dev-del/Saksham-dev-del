@@ -29,6 +29,7 @@
 
 | Project | Description |
 |---|---|
+| [**AI Teacher Hub**](https://github.com/Saksham-dev-del/AI-Teacher-Hub) | 🎓 AI-powered teaching assistant platform — automated lesson planning, quiz generation & instant doubt resolution, built with React, Node.js/Express & AI API integration |
 | [**Document QA RAG Assistant**](https://github.com/Saksham-dev-del/Document_QA_RAG_Assistant) | AI-powered document Q&A using LangChain, FAISS, OpenAI API & Streamlit for grounded RAG answers |
 | [**Deepfake Audio Detection System**](https://github.com/Saksham-dev-del/Deepfake_Fake_Audio_Detection_System) | Android + AI/ML system detecting fake audio using Kotlin, FastAPI, Librosa, MFCC & CNN/TFLite |
 | [**Saksham AI**](https://github.com/Saksham-dev-del/saksham-ai) | End-to-end ML projects spanning Computer Vision, NLP & Deep Learning |
