@@ -130,8 +130,8 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Saksham-dev-del&theme=default" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Saksham-dev-del&theme=default" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
@@ -142,6 +142,8 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
   <img src="https://github-profile-trophy.vercel.app/?username=Saksham-dev-del&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
+> 💡 These are free public badge services — they occasionally return errors like `402` when overloaded. If a badge breaks, just reload the page after a few minutes; nothing on your end is wrong.
+
 ---
 
 <h3 align="center">🐍 Contribution Snake</h3>
@@ -150,7 +152,7 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
   <img src="https://raw.githubusercontent.com/Saksham-dev-del/Saksham-dev-del/output/github-snake.svg" alt="snake animation"/>
 </p>
 
-> ⚠️ To make the snake animation above work, set up the [`platane/snk`](https://github.com/Platane/snk) GitHub Action in this repo — it auto-generates `github-snake.svg` on the `output` branch from your contribution graph.
+> ⚠️ This will only render once the `snake.yml` GitHub Action has run at least once in this repo and created the `output` branch. See setup steps below.
 
 ---
 
