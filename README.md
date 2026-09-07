@@ -182,4 +182,23 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
   />
 </p>
 
----AG pipelines, FastAPI, n8n automation, Computer Vision
+---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Saksham-dev-del/Saksham-dev-del/output/github-snake.svg"
+    alt="Contribution Snake"
+  />
+</p>
+
+---
+
+<h3 align="center">✨ Currently</h3>
+
+```text
+🔭 Working on   : AI Teacher Hub — smart lesson planning & doubt-resolution platform
+🌱 Learning     : Advanced RAG architectures & multi-agent LLM systems
+🎯 Goal 2026    : Land an AI/ML Engineer internship at a top-tier tech company
+💬 Ask me about : LangChain, RAG pipelines, FastAPI, n8n automation, Computer Vision
