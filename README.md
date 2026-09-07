@@ -154,51 +154,32 @@ Portfolio site showcasing ML, DL, CV, NLP, LLM & RAG projects.
 
 ---
 
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Saksham-dev-del&show_icons=true&theme=default&count_private=true&hide_border=false"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saksham-dev-del&theme=default"
     alt="GitHub Stats"
-    height="180"
+    width="495"
   />
+</p>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-dev-del&theme=default&hide_border=false"
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Saksham-dev-del&theme=default&hide_border=true"
     alt="GitHub Streak"
-    height="180"
+    width="495"
   />
-
 </p>
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-dev-del&layout=compact&theme=default&hide_border=false"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saksham-dev-del&theme=default"
     alt="Top Languages"
-    height="180"
-  />
-
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Saksham-dev-del/Saksham-dev-del/output/github-snake.svg"
-    alt="Contribution Snake"
+    width="495"
   />
 </p>
 
----
-
-<h3 align="center">✨ Currently</h3>
-
-```text
-🔭 Working on   : AI Teacher Hub — smart lesson planning & doubt-resolution platform
-🌱 Learning     : Advanced RAG architectures & multi-agent LLM systems
-🎯 Goal 2026    : Land an AI/ML Engineer internship at a top-tier tech company
-💬 Ask me about : LangChain, RAG pipelines, FastAPI, n8n automation, Computer Vision
+---AG pipelines, FastAPI, n8n automation, Computer Vision
